@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/57300/source/repos/Juego 2D/Content/disparo.mp3</SourceFile>
+  <SourceTime>2021-10-07T11:10:16.816787-05:00</SourceTime>
+  <DestFile>C:/Users/57300/source/repos/Juego 2D/Content/bin/Windows/Content/disparo.xnb</DestFile>
+  <DestTime>2021-10-07T11:11:03.5097799-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T11:17:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T11:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/57300/source/repos/Juego 2D/Content/bin/Windows/Content/disparo.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

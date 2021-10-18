@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/../Assets/images/GameOver.png</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/../Assets/images/Soldier.png</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/background.jpg</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/Bullet.png</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/disparo.mp3</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/File.spritefont</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/Sound1.mp3</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/Zombie1.png</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/Zombie2.png</File>
+    <File>C:/Users/57300/source/repos/Juego 2D/Content/Zombie3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>GameOver.png</File>
+    <File>Soldier.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

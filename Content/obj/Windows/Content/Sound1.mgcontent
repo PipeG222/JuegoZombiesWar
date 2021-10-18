@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/57300/source/repos/Juego 2D/Content/Sound1.mp3</SourceFile>
+  <SourceTime>2021-10-07T08:56:26.724198-05:00</SourceTime>
+  <DestFile>C:/Users/57300/source/repos/Juego 2D/Content/bin/Windows/Content/Sound1.xnb</DestFile>
+  <DestTime>2021-10-07T09:00:12.1683232-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T11:17:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T11:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/57300/source/repos/Juego 2D/Content/bin/Windows/Content/Sound1.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
